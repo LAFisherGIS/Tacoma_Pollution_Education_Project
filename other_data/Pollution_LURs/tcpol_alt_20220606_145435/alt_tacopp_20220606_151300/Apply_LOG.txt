@@ -1,0 +1,14 @@
+Start Time: Monday 06 Jun 2022 15:13:00
+
+Settings - Start Time: Monday 06 Jun 2022 15:13:00
+
+LUR Source Data File Geodatabase: E:\NONGIT Project_Resources\other_data\Pollution_LURs\tcpol_alt_20220606_145435\tcpol_alt_20220606_145435.gdb
+SQLite Database: E:\NONGIT Project_Resources\other_data\Pollution_LURs\tcpol_alt_20220606_145435\LurSqlDB.sqlite
+
+LUR Model(s) selected: ['MODEL_depMEAN_NO2__Plume', 'MODEL_depMEAN_VOC__Plume', 'MODEL_depMEAN_pm_10__Plu', 'MODEL_depMEAN_pm_1__Plum', 'MODEL_depMEAN_pm_2_5__Pl']
+
+Settings - End Time: Monday 06 Jun 2022 15:14:53
+
+Receptors - Start Time: Monday 06 Jun 2022 15:14:53
+
+Receptors from Regular Points - Start Time: Monday 06 Jun 2022 15:14:59

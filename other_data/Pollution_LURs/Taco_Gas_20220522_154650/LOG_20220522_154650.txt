@@ -1,0 +1,13 @@
+Start Time: Sunday 22 May 2022 15:46:50
+
+Settings - Start Time: Sunday 22 May 2022 15:46:50
+
+Input File Geodatabase: C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\tacoma_LUR.gdb
+Output Folder: C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\Pollution_LURs\Taco_Gas_20220522_154650
+The coordinate system is set to: NAD_1983_HARN_StatePlane_Washington_South_FIPS_4602_Feet
+Unit of measurement: Foot_US
+Study Area Feature Class: Study_Area
+
+Settings - End Time: Sunday 22 May 2022 15:47:42
+
+Outcomes - Start Time: Sunday 22 May 2022 15:47:42

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220606</CreaDate><CreaTime>15565300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\NaturalNeighbor" Date="20220606" Time="155653">NaturalNeighbor pred_pts_neg ttl "E:\NONGIT Project_Resources\other_data\Pollution_Rasters\tcnegs1.tif" 250</Process></lineage></DataProperties></Esri></metadata>

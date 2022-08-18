@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Schools in Pierce County</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>  School campus centroids throughout Pierce County. Includes public and private primary and secondary schools, universities, colleges and technical schools. Please read metadata for additional information (https://matterhorn.co.pierce.wa.us/GISmetadata/pdbis_schools.html) ). Any data download constitutes acceptance of the Terms of Use (https://matterhorn.co.pierce.wa.us/Disclaimer/PierceCountyGISDataTermsofUse.pdf)</abstract>
+            <purpose/>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Pierce</themekey>
+                <themekey>County</themekey>
+                <themekey>Washington</themekey>
+                <themekey>Places</themekey>
+                <themekey>of</themekey>
+                <themekey>interest</themekey>
+                <themekey>Schools</themekey>
+                <themekey>Grounds</themekey>
+                <themekey>schools</themekey>
+                <themekey>education</themekey>
+                <themekey>universities</themekey>
+                <themekey>colleges</themekey>
+                <themekey>technical</themekey>
+                <themekey>schools</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

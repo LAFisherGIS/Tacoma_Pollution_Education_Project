@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <pubdate>20190314</pubdate>
+                <title>Hydro_Puget_Sound_generalized</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <purpose>The Puget Sound Shoreline generalized was created from the Puget Sound Shoreline and generalizing.  Read the full metadata for more information.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Pierce County</themekey>
+                <themekey>Washington</themekey>
+                <themekey>Hydro/Topo</themekey>
+                <themekey>Hydro</themekey>
+                <themekey>Puget Sound</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>None</useconst>
+    </idinfo>
+    <metainfo>
+        <metd>20191108</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

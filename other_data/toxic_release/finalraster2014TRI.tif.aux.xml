@@ -1,0 +1,28 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>22</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>1784749|0|0|0|0|0|0|0|0|0|0|113007|0|0|0|0|0|0|0|0|0|0|0|116327|0|0|0|0|0|0|0|0|0|0|67178|0|0|0|0|0|0|0|0|0|0|0|43633|0|0|0|0|0|0|0|0|0|0|18401|0|0|0|0|0|0|0|0|0|0|0|7396|0|0|0|0|0|0|0|0|0|0|0|12524|0|0|0|0|0|0|0|0|0|0|13998|0|0|0|0|0|0|0|0|0|0|0|13023|0|0|0|0|0|0|0|0|0|0|6079|0|0|0|0|0|0|0|0|0|0|0|9354|0|0|0|0|0|0|0|0|0|0|0|7569|0|0|0|0|0|0|0|0|0|0|5158|0|0|0|0|0|0|0|0|0|0|0|5894|0|0|0|0|0|0|0|0|0|0|8133|0|0|0|0|0|0|0|0|0|0|0|3603|0|0|0|0|0|0|0|0|0|0|0|4514|0|0|0|0|0|0|0|0|0|0|1567|0|0|0|0|0|0|0|0|0|0|0|3588|0|0|0|0|0|0|0|0|0|0|1874|0|0|0|0|0|0|0|0|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|278</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+      <MDI key="STATISTICS_COVARIANCES">6.689743402287229</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">22</MDI>
+      <MDI key="STATISTICS_MEAN">0.87882509953959</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">2.5864538275962</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,42 @@
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+-----------------------------------------
+Data set            :tps_mid_stats
+Weights matrix      :        None
+Dependent Variable  :     m14_whi                Number of Observations:          10
+Mean dependent var  :    -27.6100                Number of Variables   :           4
+S.D. dependent var  :     11.9105                Degrees of Freedom    :           6
+R-squared           :      0.4240
+Adjusted R-squared  :      0.1360
+Sum squared residual:     735.374                F-statistic           :      1.4724
+Sigma-square        :     122.562                Prob(F-statistic)     :      0.3136
+S.E. of regression  :      11.071                Log likelihood        :     -35.678
+Sigma-square ML     :      73.537                Akaike info criterion :      79.357
+S.E of regression ML:      8.5754                Schwarz criterion     :      80.567
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT    -123.1843440     106.6413364      -1.1551275       0.2919589
+           pollution       0.5562686       0.8249459       0.6743092       0.5252286
+              income       0.0009762       0.0006935       1.4075842       0.2088929
+          population       0.0084836       0.0227817       0.3723867       0.7224041
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER           69.735
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2           0.053           0.9740
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                3           2.317           0.5092
+Koenker-Bassett test              3           2.797           0.4240
+
+SPECIFICATION ROBUST TEST
+Not computed due to multicollinearity.
+================================ END OF REPORT =====================================

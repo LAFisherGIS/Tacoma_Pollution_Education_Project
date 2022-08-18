@@ -1,0 +1,42 @@
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+-----------------------------------------
+Data set            :tps_elementary_stats
+Weights matrix      :        None
+Dependent Variable  :     r14_whi                Number of Observations:          35
+Mean dependent var  :     -8.1743                Number of Variables   :           3
+S.D. dependent var  :      7.0127                Degrees of Freedom    :          32
+R-squared           :      0.1577
+Adjusted R-squared  :      0.1051
+Sum squared residual:    1408.360                F-statistic           :      2.9959
+Sigma-square        :      44.011                Prob(F-statistic)     :     0.06417
+S.E. of regression  :       6.634                Log likelihood        :    -114.322
+Sigma-square ML     :      40.239                Akaike info criterion :     234.645
+S.E of regression ML:      6.3434                Schwarz criterion     :     239.311
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT      -8.2637338       7.6726197      -1.0770420       0.2895144
+           pollution      -0.1180286       0.1061001      -1.1124267       0.2742423
+              income       0.0001074       0.0000688       1.5625358       0.1279985
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER           14.446
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2           1.569           0.4565
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                2           5.598           0.0609
+Koenker-Bassett test              2          10.475           0.0053
+
+SPECIFICATION ROBUST TEST
+TEST                             DF        VALUE           PROB
+White                             5          16.264           0.0061
+================================ END OF REPORT =====================================

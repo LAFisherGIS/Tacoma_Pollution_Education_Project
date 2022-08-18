@@ -1,0 +1,16 @@
+Start Time: Monday 23 May 2022 14:41:08
+
+Settings - Start Time: Monday 23 May 2022 14:41:08
+
+LUR Source Data File Geodatabase: C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\Pollution_LURs\tako_fumes_20220523_141208\tako_fumes_20220523_141208.gdb
+SQLite Database: C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\Pollution_LURs\tako_fumes_20220523_141208\LurSqlDB.sqlite
+
+LUR Model(s) selected: ['MODEL_depMEAN_NO2__Plume', 'MODEL_depMEAN_VOC__Plume', 'MODEL_depMEAN_pm_10__Plu', 'MODEL_depMEAN_pm_1__Plum', 'MODEL_depMEAN_pm_2_5__Pl']
+
+Settings - End Time: Monday 23 May 2022 14:42:49
+
+Receptors - Start Time: Monday 23 May 2022 14:42:49
+
+Receptors from Regular Points - Start Time: Monday 23 May 2022 14:43:27
+
+Receptor points feature class created:C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\Pollution_LURs\tako_fumes_20220523_141208\tacopollu_20220523_144108\tacopollu.gdb\LURdata\tacopollu_receptors

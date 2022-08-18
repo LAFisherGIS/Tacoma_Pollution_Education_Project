@@ -1,0 +1,41 @@
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+-----------------------------------------
+Data set            :tps_mid_stats
+Weights matrix      :        None
+Dependent Variable  :     m14_mul                Number of Observations:          10
+Mean dependent var  :    -31.5500                Number of Variables   :           3
+S.D. dependent var  :     31.0367                Degrees of Freedom    :           7
+R-squared           :      0.3017
+Adjusted R-squared  :      0.1021
+Sum squared residual:    6054.187                F-statistic           :      1.5119
+Sigma-square        :     864.884                Prob(F-statistic)     :      0.2846
+S.E. of regression  :      29.409                Log likelihood        :     -46.219
+Sigma-square ML     :     605.419                Akaike info criterion :      98.438
+S.E of regression ML:     24.6053                Schwarz criterion     :      99.346
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT      65.4633531     138.0034939       0.4743601       0.6496839
+           pollution      -1.6944349       1.4700402      -1.1526453       0.2868939
+              income      -0.0003031       0.0013515      -0.2242924       0.8289359
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER           31.213
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2           0.059           0.9709
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                2           3.659           0.1605
+Koenker-Bassett test              2           3.356           0.1867
+
+SPECIFICATION ROBUST TEST
+Not computed due to multicollinearity.
+================================ END OF REPORT =====================================

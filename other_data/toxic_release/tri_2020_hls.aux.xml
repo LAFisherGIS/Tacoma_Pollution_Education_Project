@@ -1,0 +1,23 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>tri_2020_hls</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>1</HistMin>
+        <HistMax>99</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>70302|0|95910|0|0|34669|0|27175|0|0|16674|0|0|24574|0|5483|0|0|289|0|0|0|0|10451|0|0|185|0|36|0|0|3224|0|6517|0|0|67|0|0|0|0|1442|0|0|1062|0|7740|0|0|0|0|0|4363|0|965|0|0|1627|0|742|0|0|3729|0|0|681|0|424|0|0|2954|0|11263|0|0|1092|0|0|24|0|10493|0|0|694|0|968|0|0|2577|0|0|6223|0|1323|0|0|95|0|5086|0|0|117|0|0|158|0|96|0|0|1111|0|575|0|0|369|0|0|737|0|364|0|0|802|0|2276|0|0|9453|0|0|6936|0|470|0|0|2397|0|2174|0|0|1589|0|0|23|0|1625|0|0|672|0|0|0|0|388|0|0|70|0|555|0|0|0|0|137|0|0|0|0|0|0|0|9|0|0|377|0|349|0|0|2196|0|0|409|0|9376|0|0|853|0|86|0|0|29|0|0|4227|0|0|0|0|14|0|0|0|0|2750|0|0|0|0|645|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|1984|0|0|0|0|0|0|0|0|0|0|295</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="PIXELTYPE">SIGNEDBYTE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

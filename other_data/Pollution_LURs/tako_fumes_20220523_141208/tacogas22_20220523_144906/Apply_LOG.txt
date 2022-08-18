@@ -1,0 +1,61 @@
+Start Time: Monday 23 May 2022 14:49:06
+
+Settings - Start Time: Monday 23 May 2022 14:49:06
+
+LUR Source Data File Geodatabase: C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\Pollution_LURs\tako_fumes_20220523_141208\tako_fumes_20220523_141208.gdb
+SQLite Database: C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\Pollution_LURs\tako_fumes_20220523_141208\LurSqlDB.sqlite
+
+LUR Model(s) selected: ['MODEL_depMEAN_NO2__Plume', 'MODEL_depMEAN_VOC__Plume', 'MODEL_depMEAN_pm_10__Plu', 'MODEL_depMEAN_pm_1__Plum', 'MODEL_depMEAN_pm_2_5__Pl']
+
+Settings - End Time: Monday 23 May 2022 14:50:45
+
+Receptors - Start Time: Monday 23 May 2022 14:50:45
+
+Receptors from Regular Points - Start Time: Monday 23 May 2022 14:51:51
+
+Receptor points feature class created:C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\Pollution_LURs\tako_fumes_20220523_141208\tacogas22_20220523_144906\tacogas22.gdb\LURdata\tacogas22_receptors
+Initial number of receptor points: 4357
+Final number of receptor points: 4357
+
+Receptors from Regular Points - End Time: Monday 23 May 2022 14:53:26
+
+Receptors  - End Time: Monday 23 May 2022 14:53:26
+
+Apply model - Start Time: Monday 23 May 2022 14:53:26
+
+Predictor created: pD_parkd_none_dist  Time: Monday 23 May 2022 14:53:44
+
+Predictor created: pD_soundd_none_dist  Time: Monday 23 May 2022 14:54:18
+
+Predictor created: pF_trid_none_dist  Time: Monday 23 May 2022 14:54:26
+
+Predictor created: pD_waterd_none_dist  Time: Monday 23 May 2022 14:54:37
+
+Predictor created: pG_park_raster_val  Time: Monday 23 May 2022 14:54:46
+
+Predictor created: pG_tri_raster_val  Time: Monday 23 May 2022 14:54:51
+
+Predictor created: pG_waterd_raster_val  Time: Monday 23 May 2022 14:55:00
+
+Predictor created: pG_rr_raster_val  Time: Monday 23 May 2022 14:55:05
+
+Predictor created: pG_hs_raster_val  Time: Monday 23 May 2022 14:55:15
+
+Model applied: (525.4043575143398)+(0.002845710610579767)*pD_waterd_none_dist+(0.004655322224865881)*pD_parkd_none_dist+(-0.0009589060576513215)*pF_trid_none_dist+(-0.0004450051884628888)*p_XCOORD
+
+Model applied: (2.3606373127410123)+(-3.851562177018878e-05)*pD_soundd_none_dist+(-0.11721049486524493)*pG_park_raster_val+(0.08776445327885626)*pG_hs_raster_val+(0.04059987806513777)*pG_tri_raster_val
+
+Model applied: (15.91546102867315)+(0.8966052423165904)*pG_tri_raster_val+(0.7962155031075151)*pG_rr_raster_val
+
+Model applied: (-37.94553348337654)+(0.00022229339278008583)*p_YCOORD+(-1.0230274178737506)*pG_waterd_raster_val+(-9.582269326026575e-05)*p_XCOORD+(-0.15520716764860448)*pG_park_raster_val
+
+Model applied: (-99.7592844330162)+(-0.8607977538308983)*pG_waterd_raster_val+(0.00015457081899414207)*p_YCOORD
+
+Predicted values calculated - Time: Monday 23 May 2022 14:55:31
+
+
+Apply - End Time: Monday 23 May 2022 14:55:44
+
+Finished by user: Monday 23 May 2022 14:55:44
+
+Total time: 0:06:38

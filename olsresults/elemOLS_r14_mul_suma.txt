@@ -1,0 +1,47 @@
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+-----------------------------------------
+Data set            :tps_elementary_stats
+Weights matrix      :        None
+Dependent Variable  :     r14_mul                Number of Observations:          35
+Mean dependent var  :    -15.9429                Number of Variables   :           9
+S.D. dependent var  :     30.2606                Degrees of Freedom    :          26
+R-squared           :      0.2733
+Adjusted R-squared  :      0.0497
+Sum squared residual:   22625.139                F-statistic           :      1.2222
+Sigma-square        :     870.198                Prob(F-statistic)     :      0.3253
+S.E. of regression  :      29.499                Log likelihood        :    -162.914
+Sigma-square ML     :     646.433                Akaike info criterion :     343.827
+S.E of regression ML:     25.4250                Schwarz criterion     :     357.825
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT     -45.8128774      63.9941333      -0.7158918       0.4804389
+           pollution      -0.1131165       0.5506161      -0.2054362       0.8388313
+            business      -2.4647855     184.9155897      -0.0133292       0.9894669
+             science      76.2583158     496.2620505       0.1536654       0.8790600
+   educationAndLegal    -113.5035774     233.1389825      -0.4868494       0.6304442
+          healthcare     402.4376489     387.8611074       1.0375819       0.3090187
+      salesAndOffice     142.2487253     173.0698051       0.8219153       0.4185989
+          extraction    -225.2773087     145.2646373      -1.5508063       0.1330365
+           logistics     776.5168224     567.7258808       1.3677672       0.1830920
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER           42.554
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2           8.053           0.0178
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                8          17.382           0.0264
+Koenker-Bassett test              8          11.892           0.1561
+
+SPECIFICATION ROBUST TEST
+Not computed due to multicollinearity.
+================================ END OF REPORT =====================================

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220522</CreaDate><CreaTime>15443600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20220522" Time="154436">RasterCalculator Con(IsNull("tri_2020_hls"), 0, "tri_2020_hls") "C:\Users\PlotVitalNPC\Desktop\NONGIT Project_Resources\other_data\toxic_release\tri_2020_fin"</Process></lineage></DataProperties></Esri></metadata>

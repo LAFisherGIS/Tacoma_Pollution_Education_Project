@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>This polygon shows the boundaries of park properties in Pierce County. This theme includes Pierce County Parks, City Parks, Habitat Areas, Tacoma Metro Parks, Public Golf Courses, National and State Parks within Pierce County. Please see metadata for additional information (https://matterhorn.co.pierce.wa.us/GISmetadata/pdbpark_parks.html).  Any data download constitutes acceptance of the Terms of Use (https://matterhorn.co.pierce.wa.us/Disclaimer/PierceCountyGISDataTermsofUse.pdf).
+
+Terms of Use/Custom License: Please see provided hyperlinks for metadata and Terms of Use.</abstract>
+            <purpose>Boundary polygons of park properties in Pierce County. Please read metadata for additional information.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Pierce County</themekey>
+                <themekey>Washington</themekey>
+                <themekey>Recreation</themekey>
+                <themekey>Parks - Points</themekey>
+                <themekey>parks</themekey>
+                <themekey>park</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
